@@ -1,4 +1,4 @@
-# ahj-ws-frontend
+# ahj-ws-frontend      [![Build status](https://ci.appveyor.com/api/projects/status/9xn5c10qfphv53us?svg=true)](https://ci.appveyor.com/project/PolinaKhodus/ahj-ws-frontend)
 
 Чат
 Легенда
